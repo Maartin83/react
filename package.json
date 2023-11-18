@@ -2,6 +2,7 @@
   "name": "reactfront",
   "version": "0.1.0",
   "private": true,
+    "homepage": "maartin83.github.io/react",
   "dependencies": {
     "@popperjs/core": "^2.11.8",
     "@react-pdf/renderer": "^3.1.14",
@@ -12,6 +13,7 @@
     "bootstrap": "^5.3.2",
     "buffer": "^6.0.3",
     "crypto-browserify": "^3.12.0",
+    "gh-pages": "^6.0.0",
     "i": "^0.3.7",
     "jsonwebtoken": "^9.0.2",
     "react": "^18.2.0",
@@ -28,6 +30,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
