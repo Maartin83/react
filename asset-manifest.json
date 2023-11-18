@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/maartin83.github.io/react/static/css/main.9c3e5de8.css",
+    "main.js": "/maartin83.github.io/react/static/js/main.66c79da8.js",
+    "static/js/787.0451fb7f.chunk.js": "/maartin83.github.io/react/static/js/787.0451fb7f.chunk.js",
+    "static/media/logo.png": "/maartin83.github.io/react/static/media/logo.f8c987d0aeea6c912df4.png",
+    "index.html": "/maartin83.github.io/react/index.html",
+    "main.9c3e5de8.css.map": "/maartin83.github.io/react/static/css/main.9c3e5de8.css.map",
+    "main.66c79da8.js.map": "/maartin83.github.io/react/static/js/main.66c79da8.js.map",
+    "787.0451fb7f.chunk.js.map": "/maartin83.github.io/react/static/js/787.0451fb7f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c3e5de8.css",
+    "static/js/main.66c79da8.js"
+  ]
+}
