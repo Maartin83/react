@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { Document, Page, Text, View,StyleSheet ,PDFViewer,Image} from '@react-pdf/renderer';
 import {returnToken} from "../Config/auth";
 import axios from "axios";
-import logo from "../assets/logo.png";
+import logo from "../assets/images/logo.png";
 
 const VerPdf = () => {
     const styles = StyleSheet.create({

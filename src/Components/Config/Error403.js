@@ -1,4 +1,4 @@
-import logo from '../assets/logo.png';
+import logo from '../assets/images/logo.png';
 const Error403 = () => {
     return (
         <div className="container">

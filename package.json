@@ -2,8 +2,11 @@
   "name": "reactfront",
   "version": "0.1.0",
   "private": true,
-    "homepage": "maartin83.github.io/react",
+  "homepage": "http://maartin83.github.io/react",
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.4.2",
+    "@fortawesome/free-brands-svg-icons": "^6.4.2",
+    "@fortawesome/react-fontawesome": "^0.2.0",
     "@popperjs/core": "^2.11.8",
     "@react-pdf/renderer": "^3.1.14",
     "@testing-library/jest-dom": "^5.17.0",

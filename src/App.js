@@ -29,7 +29,7 @@ function App() {
       <Router>
           <Routes>
               <Route path="/login" element={<Login />} />
-              <Route path="/" element={<Home />} />
+              <Route path="/react" element={<Home />} />
               <Route path="/regUsuarios" element={<RegistrarUsuario />} />
               <Route path="*" element={<Error404/>} />
               <Route path="/error403" element={<Error403/>} />

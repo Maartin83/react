@@ -2,7 +2,7 @@ import React, {useEffect, useState} from 'react';
 import axios from 'axios';
 import {useNavigate,Link} from "react-router-dom";
 import {isAuthenticated} from "./Config/auth";
-import logo from "./assets/logo.png";
+import logo from "./assets/images/logo.png";
 import Swal from "sweetalert2";
 
 const Login = () => {

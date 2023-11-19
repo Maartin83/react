@@ -1,4 +1,4 @@
-import logo from "./assets/logo.png";
+import logo from "./assets/images/logo.png";
 import {cerrarSesion, isAuthenticated, isRoleAdmin, isRoleUser, obtenerusername} from "./Config/auth";
 import React from "react";
 
